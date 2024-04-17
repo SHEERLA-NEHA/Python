@@ -20,6 +20,43 @@ The itsy bitsy spider climbed up the waterspout.
 Down came the rain and washed the spider out.'''
 
 
+#Python escape and newline characters
+print("The itsy bitsy spider\nclimbed up the waterspout.")
+print()
+print("Down came the rain\nand washed the spider out.")
+'''o/p:
+The itsy bitsy spider
+climbed up the waterspout.
+ 
+Down came the rain
+and washed the spider out.'''
+
+
+
+#Using multiple arguments
+print("The itsy bitsy spider" , "climbed up" , "the waterspout")
+'''o/p: 
+The itsy bitsy spider climbed up the waterspout'''
+
+
+#Positional arguments
+print("My name is", "Python.")
+print("Monty Python.")
+'''o/p: 
+My name is Python.
+Monty Python.'''
+
+
+#Keyword arguments
+print("My name is", "Python.", end=" ")
+print("Monty Python.")
+'''o/p: 
+My name is Python. Monty Python.'''
+
+
+
+
+
 
 
 
