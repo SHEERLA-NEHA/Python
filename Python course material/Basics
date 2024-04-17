@@ -1,1 +1,29 @@
 
+#The print() function
+print("Hello, World!")
+#o/p:Hello, World!
+
+
+print("The itsy bitsy spider climbed up the waterspout.")
+print("Down came the rain and washed the spider out.")
+'''o/p:
+The itsy bitsy spider climbed up the waterspout.
+Down came the rain and washed the spider out.'''
+
+
+print("The itsy bitsy spider climbed up the waterspout.")
+print()
+print("Down came the rain and washed the spider out.")
+'''o/p:
+The itsy bitsy spider climbed up the waterspout.
+
+Down came the rain and washed the spider out.'''
+
+
+
+
+
+
+
+
+
